@@ -21,4 +21,4 @@ public class HolaMundo {
 
 JavaScript:
 
-console.log("Hola Mundo");
+console.log("¡Hola Mundo!");
